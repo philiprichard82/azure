@@ -1,0 +1,2 @@
+# azure
+for leaning teraform
